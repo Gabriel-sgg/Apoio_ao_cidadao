@@ -8,9 +8,9 @@ public class ConexaoBD {
 
     // Configurações do banco
     private static String host = "localhost";
-    private static String porta = "3306"; 
-    private static String db = "apoio_ao_cidadao";
-    private static String usuario = "root";     
+    private static String porta = ""; 
+    private static String db = "";
+    private static String usuario = "";     
     private static String senha = "";
 
     public static Connection obtemConexao() {
