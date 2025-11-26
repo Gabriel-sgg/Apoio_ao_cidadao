@@ -93,7 +93,4 @@ Nos campos vazios insira as informações do seu banco de dados local;
 ## Responsáveis
 - Gabriel Sales Garcia;
 - Kaique Santos Silva;
-- Pedro Henrique Cordeiro;
-- Daniel Dias Silva;
-- Lucas Viana Ferreira. 
 - Professor responsável: Túlio Cearamicoli Vivaldini.
